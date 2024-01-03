@@ -20,3 +20,14 @@ The repository is organized as follows:
    ```bash
    git clone https://github.com/Chando0185/blackfriday_eda_feature_eng.git
    cd blackfriday_eda_feature_eng
+
+2.pip install -r requirements.txt
+3.streamlit run main.py
+
+EDA and Feature Engineering
+The notebooks/ directory contains Jupyter notebooks with detailed EDA and Feature Engineering steps. These notebooks cover various aspects of the Black Friday dataset, including data cleaning, visualization, and feature creation.
+
+Streamlit Data Visualization App
+The main.py code for a Streamlit app that allows users to visually explore the Black Friday dataset. The app provides interactive charts, graphs, and insights derived from the EDA.
+
+To run the Streamlit app, use the following command from the project root:
